@@ -1,7 +1,9 @@
 # phpBB Pages Extension
 
-This is the repository for the development of the phpBB Pages Extension.
-Odd Greg.
+This is the repository for the re-development of the phpBB Pages Extension.
+
+
+# Original README
 
 [![Build Status](https://travis-ci.org/phpbb-extensions/pages.svg)](https://travis-ci.org/phpbb-extensions/pages)
 
